@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmah.Io.ReverseProxy", "Elmah.Io.ReverseProxy\Elmah.Io.ReverseProxy.csproj", "{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Blog|Any CPU = Blog|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Docs|Any CPU = Docs|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}.Blog|Any CPU.ActiveCfg = Blog|Any CPU
+		{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}.Blog|Any CPU.Build.0 = Blog|Any CPU
+		{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}.Docs|Any CPU.ActiveCfg = Docs|Any CPU
+		{39795AFC-BDEC-4F3F-ABD3-8FCA15495EAC}.Docs|Any CPU.Build.0 = Docs|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
